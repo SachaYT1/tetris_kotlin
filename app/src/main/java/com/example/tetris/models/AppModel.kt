@@ -106,7 +106,7 @@ class AppModel {
                     coordinate?.x = currentBlock?.position?.x?.plus(1)
                 }
                 Motions.DOWN.name -> {
-                    coordinate?.x = currentBlock?.position?.y?.plus(1)
+                    coordinate?.y = currentBlock?.position?.y?.plus(1)
                 }
                 Motions.ROTATE.name -> {
                     frameNumber = frameNumber?.plus(1)
