@@ -1,0 +1,10 @@
+<resources>
+        <string name="app_name">TETRIS</string>
+    <string name="high_score">Лучший счёт: 0</string>
+    <string name="new_game">Новая игра</string>
+    <string name="reset_score">Сбросить счёт</string>
+    <string name="exit">Выйти</string>
+    <string name="high_score_ingame">Лучший счёт</string>
+    <string name="current_score">Счёт</string>
+    <string name="btn_restart">Заново</string>
+</resources>
